@@ -10,7 +10,7 @@ website:
       - href: agenda.qmd
         text: Agenda
       - href: venue.qmd
-        text: Venue
+        text: Monica
       - href: speakerinfo.qmd
         text: Speaker information
       - href: practicalinfo.qmd
