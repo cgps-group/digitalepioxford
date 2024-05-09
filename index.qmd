@@ -2,19 +2,24 @@
 title: "Digital Epidemiology with Applications in Public Health, Oxford, 16-18 July 2024"
 ---
 
----
-format: html
----
-
 ```{=html}
-<style>
- <div>
- <img src="img/oxford2.png"\>
- <p> Digital Epidemiology with Applications in Public Health, Oxford, 16-18 July 2024</p>
-</div>
-  }
-  
-</style>
+
+<div class="banner">
+ <img src="img/oxford2.png"
+ style="position: absolute;
+    object-fit: cover;
+    width: 80%;
+    filter: brightness(80%);">
+ <p style=" position: absolute;
+    width: 100%;
+    display: block;
+    text-align: center;
+    color: white;
+    top: 50%;
+    font-weight: bold;
+    font-size: 2rem;"> 
+    Digital Epidemiology with Applications in Public Health, Oxford, 16-18 July 2024</p>
+ </div>
 ```
 Digital Epidemiology is the real-time integration of clinical, laboratory and genomic information, to serve early outbreak detection, syndromic surveillance, public health surveillance and predictive modelling. This three-day course will combine foundational knowledge, practical skills, and expert insights. Day 1 introduces the field with real-world applications and hands-on data analysis and visualisation exercises. Day 2 emphasises implementation strategies, featuring a stakeholder mapping and data architecture workshop and global perspectives from national and continental public health agencies’ experts. The final day focuses on applying these skills to outbreak investigations, culminating in group presentations. Designed for public health professionals, this course offers a blend of theory and practice, equipping participants with the tools to harness digital data for rapid public health responses and decision-making. In the two workshops, attendees will be working in groups, which will provide an opportunity for them to engage in discussions about their progress with fellow participants and to obtain feedback from their peers.
 
